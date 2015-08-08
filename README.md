@@ -19,7 +19,7 @@ Finally, this distribution works well when used to generate LOD data.
 
 ![lod0](./Result/lod2/scarf_s_lod0.png) 
 
--*4x4 downsampling*
+-*4x4 Downsampling*
 
 ![lod1](./Result/lod2/scarf_s_slod2_dlod2.png)
 
