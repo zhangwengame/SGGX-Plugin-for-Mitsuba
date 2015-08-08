@@ -1,5 +1,5 @@
 # SGGX-Plugin-for-Mitsuba
-A implementation for SIGGRAOH 2015 paper [*The SGGX Microflake Distribution*](https://drive.google.com/file/d/0BzvWIdpUpRx_dXJIMk9rdEdrd00/view?usp=sharing) within the [*Mitsuba*](www.mitsuba-renderer.org/) framework.
+A implementation for SIGGRAPH 2015 paper [*The SGGX Microflake Distribution*](https://drive.google.com/file/d/0BzvWIdpUpRx_dXJIMk9rdEdrd00/view?usp=sharing) within the [*Mitsuba*](www.mitsuba-renderer.org/) framework.
 
 The paper propose a novel expression for microflake distribution which use projected area to represent the distribution. The new distribution can be easily converted from previous expression proposed by Zhao et al. And the coefficients can also be estimated from arbitary distribution. 
 
