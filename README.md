@@ -5,7 +5,7 @@ The paper propose a novel expression for microflake distribution which use proje
 
 -*Scarf*
 
-![scarf](./scarf_sggx_highquality.png)
+![scarf](./Result/scarf_sggx_highquality.png)
 
 
 This distribution also quite quite well when interpolated. 
