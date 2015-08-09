@@ -28,4 +28,4 @@ This repo includes the code need to be added or modified in the Mitsuba source c
 
 The scarf model used in the example can also be dowloaded [*here*](http://www.mitsuba-renderer.org/download.html).
 
-Noted that some codes in this tool are from Mitsuba source code and Mitsuba is is licensed under the terms of Version 3 of the GNU General Public License, so if you use this code in your project, please follow the rules described in the license.
+Noted that some codes in this tool are from Mitsuba source code and Mitsuba is licensed under the terms of Version 3 of the GNU General Public License, so if you use this code in your project, please follow the rules described in the license.
